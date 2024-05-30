@@ -1,5 +1,5 @@
 {
-  "name": "@marci-ui/tokens",
+  "name": "@marci-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@marci-ui/tokens": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
   }
