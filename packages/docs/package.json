@@ -9,6 +9,9 @@
     "build": "storybook build"
   },
   "dependencies": {
+    "@marci-ui/react": "*",
+    "@marci-ui/tokens": "*",
+    "@marci-ui/eslint-config": "*",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
