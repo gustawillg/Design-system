@@ -12,6 +12,7 @@
     "@marci-ui/eslint-config": "*",
     "@marci-ui/react": "*",
     "@marci-ui/tokens": "*",
+    "@storybook/addon-a11y": "^8.1.5",
     "@storybook/addons": "^7.6.17",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
