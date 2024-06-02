@@ -20,7 +20,6 @@ declare const Button: _stitches_react_types_styled_component.StyledComponent<"bu
         ignite500: string;
         ignite700: string;
         ignite900: string;
-        test: string;
     };
     fontSizes: {
         xxs: string;
