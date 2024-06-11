@@ -13,7 +13,7 @@
     "@marci-ui/react": "*",
     "@marci-ui/tokens": "*",
     "@mdx-js/react": "^3.0.1",
-    "@storybook/addon-a11y": "^8.1.5",
+    "@storybook/addon-a11y": "^8.1.6",
     "@storybook/addon-docs": "^8.1.5",
     "@storybook/addons": "^7.6.17",
     "phosphor-react": "^1.4.1",
