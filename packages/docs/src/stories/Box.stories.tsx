@@ -1,16 +1,19 @@
-import type { StoryObj, Meta } from '@storybook/react'
+import type { Meta, StoryObj } from '@storybook/react'
 import { Box, BoxProps, Text } from '@marci-ui/react'
 
 export default {
     title: 'Surfaces/Box',
     component: Box,
     args: {
-        children: (
-            <>
-                <Text>testando elemento box</Text>
-            </>
-        )
+        children: <Text>Testando o elemento Box</Text>,
     },
-} as Meta<BoxProps>
+    argTypes: {
+        children: {
+            control: {
+                type: null,
+            },
+        },
+    },
+} as unknown as Meta<BoxProps>
 
 export const Primary: StoryObj<BoxProps> = {}
